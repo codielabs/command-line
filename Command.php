@@ -116,10 +116,3 @@ switch ($argc) {
 }
 
 die();
-
-/*echo "<pre>";
-print_r($argc);
-echo "\n";
-print_r($argv);
-echo "</pre>";
-die();*/
